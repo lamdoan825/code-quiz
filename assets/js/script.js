@@ -49,6 +49,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q1i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -62,6 +63,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q2i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -75,6 +77,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q3i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -88,6 +91,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q4i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -101,6 +105,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q5i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -114,6 +119,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q6i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -127,6 +133,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q7i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -140,6 +147,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q8i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -153,6 +161,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q9i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
@@ -166,6 +175,7 @@ message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 function q10i() {
 message3.innerHTML = "Incorrect.";
 message2.innerHTML = "";
+time1.innerHTML = c-= 10;
 message4.innerHTML = "<button class=buttons2 onclick=next1()>Next</button>";
 }
 
