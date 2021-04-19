@@ -1,8 +1,5 @@
-#frame1 {
-  border-radius: 5px;
-  background-color: white;
-}
 
+/*answer boxes*/
 .buttons1 {
   background-color: rgb(49, 0, 128);
   color: white;
@@ -11,6 +8,7 @@
   border-radius: 5px;
 }
 
+/*begin and next and restart boxes*/
 .buttons2 {
   background-color: rgb(49, 0, 128);
   color: white;
@@ -19,6 +17,7 @@
   border-radius: 5px;
 }
 
+/*Center text*/
 #font1 {
   text-align: center;
   font-size: large;
@@ -26,6 +25,7 @@
   clear: right;
 }
 
+/*Timer*/
 #timer {
   float: right;
 }
