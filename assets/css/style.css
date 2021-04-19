@@ -6,15 +6,15 @@
 .buttons1 {
   background-color: rgb(49, 0, 128);
   color: white;
-  width: 70px;
-  height: 30px;
+  width: 200px;
+  height: 40px;
   border-radius: 5px;
 }
 
 .buttons2 {
   background-color: rgb(49, 0, 128);
   color: white;
-  width: 70px;
+  width: 200px;
   height: 30px;
   border-radius: 5px;
 }
@@ -23,4 +23,9 @@
   text-align: center;
   font-size: large;
   color: black;
+  clear: right;
+}
+
+#timer {
+  float: right;
 }
